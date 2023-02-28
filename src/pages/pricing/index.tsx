@@ -1,5 +1,6 @@
-import { MainLayout } from "components/layouts/MainLayout";
+import { MainLayout } from "../../../components/layouts/MainLayout";
 
+// "components/layouts/MainLayout"
 import Link from "next/link";
 
 //NOTA:
